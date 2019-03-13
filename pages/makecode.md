@@ -8,7 +8,7 @@ Posiada on intuicyjny panel, dzięki czemu każdy początkujący użytkownik bę
 
 Zacznijmy od zabawy z naszym prostym projektem. Klikamy w ikonkę 
 
-![](mk_new_projekt.png)
+![](images/mk_new_projekt.png)
 
 
 
