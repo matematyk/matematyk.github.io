@@ -10,3 +10,11 @@ Moje doświadczenie zawodowe jest bardzo związane z przygotowaniem różnych tr
 W swojej pracy zawsze stawiam na zrozumienie problemu.
 
 Moje materiały są przygotowane pod konkretne osoby i ich doświadczenie z programowaniem. Zachęcam do współpracy!
+
+## Hobby:
+
+Kocham Polskie Tatry w każdej porze dnia i roku :) 
+Kilka fotek:
+
+![](hobby/gory/rysy.jpg)
+![](hobby/gory/wysoka.jpg)
