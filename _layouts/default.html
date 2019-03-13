@@ -1,14 +1,23 @@
 ---
 layout: default
 ---
-<article>
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  <header>
-    <h1>{{ page.title | escape }}</h1>
-  </header>
+  {%- include head.html -%}
 
-  <section>
-    {{ content }}
-  </section>
+  <body>
 
-</article>
+    {%- include header.html -%}
+
+    <div class="py-5">
+      <div class="container page-content">
+          {{ content }}
+      </div>
+    </div>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
